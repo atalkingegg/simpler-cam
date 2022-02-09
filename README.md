@@ -15,3 +15,13 @@ The questions are; could it be more simple? Could it be made faster?
 # Want to understand the code?  Watch the Movie!
 Making complex cameras easy! Umang Jain
 https://www.youtube.com/watch?v=Vm66MPVwec4
+
+# Getting Started
+Attach camera to raspberry pi 4 running bullseye (bullseye 64-bit works also)
+
+git clone https://github.com/atalkingegg/simpler-cam.git
+cd simpler-cam
+make
+./simpler-cam
+
+feh test.png
