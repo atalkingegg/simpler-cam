@@ -11,3 +11,7 @@ Differences:
 * just works.
 
 The questions are; could it be more simple? Could it be made faster?
+
+# Want to understand the code?  Watch the Movie!
+Making complex cameras easy! Umang Jain
+https://www.youtube.com/watch?v=Vm66MPVwec4
